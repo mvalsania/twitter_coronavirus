@@ -45,3 +45,14 @@ I took the analysis further by writing `alternative_reduce.py`, which:
 - Uses **line charts** to track the number of tweets mentioning each hashtag.
 - Handles **multiple hashtags simultaneously**, so I could compare trends like **#coronavirus** vs. **#코로나바이러스** (Korean for "coronavirus").
 
+## **Generated Charts**
+
+![Top 10 Countries Using #coronavirus](path/to/coronavirus_countries.png)
+
+![Top 10 Languages Using #coronavirus](path/to/coronavirus_languages.png)
+
+![Top 10 Countries Using #코로나바이러스](path/to/korean_countries.png)
+
+![Top 10 Languages Using #코로나바이러스](path/to/korean_languages.png)
+
+![Hashtag Trends Over Time](path/to/hashtag_trends.png)
