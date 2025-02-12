@@ -47,12 +47,17 @@ I took the analysis further by writing `alternative_reduce.py`, which:
 
 ## **Generated Charts**
 
-![Top 10 Countries Using #coronavirus](path/to/coronavirus_countries.png)
+### Top 10 Countries Using #coronavirus
+![Top 10 Countries Using #coronavirus](aggregated.country_#coronavirus.png)
 
-![Top 10 Languages Using #coronavirus](path/to/coronavirus_languages.png)
+### Top 10 Languages Using #coronavirus
+![Top 10 Languages Using #coronavirus](aggregated.lang_#coronavirus.png)
 
-![Top 10 Countries Using #코로나바이러스](path/to/korean_countries.png)
+### Top 10 Countries Using #코로나바이러스
+![Top 10 Countries Using #코로나바이러스](aggregated.country_#코로나바이러스.png)
 
-![Top 10 Languages Using #코로나바이러스](path/to/korean_languages.png)
+### Top 10 Languages Using #코로나바이러스
+![Top 10 Languages Using #코로나바이러스](aggregated.lang_#코로나바이러스.png)
 
-![Hashtag Trends Over Time](path/to/hashtag_trends.png)
+### Hashtag Trends Over Time
+![Hashtag Trends Over Time](hashtag_trends.png)
