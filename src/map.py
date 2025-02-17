@@ -41,7 +41,7 @@ counter_country = defaultdict(lambda: Counter())
 
 # Debugger (LPG -> Lines Per Hour)
 # Set to a low number for a speedy debugging experience
-LPH = 10**11
+#LPH = 10**11
 
 # open the zipfile
 with zipfile.ZipFile(args.input_path) as archive:
@@ -79,9 +79,9 @@ with zipfile.ZipFile(args.input_path) as archive:
                     counter_country['_all'][country] += 1
 
                 # Only turn on for debugging
-                line_counter += 1
-                if line_counter >= LPH:
-                    break
+                #line_counter += 1
+                #if line_counter >= LPH:
+                   # break
 
 # open the outputfile
 try:
